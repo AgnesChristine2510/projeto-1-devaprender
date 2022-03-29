@@ -1,0 +1,5 @@
+git status
+git add "meu codigo"
+git add .
+git commint -m "commit inicial"
+-m(siginifica mensagem)
