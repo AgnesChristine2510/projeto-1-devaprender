@@ -8,3 +8,12 @@ git config --global user.email "blablabla@gmail.com"
 git config --global user.name "genivalda da silva"
 git remote add origin(definir onde meu codigo sera enviado)
 git push --set-upstream origin master
+
+para atualizar o mesmo repritorio 01:25 29/03/2022
+
+git add .
+git commi t -m "commit inicial"
+git config --global user.name "genivalda da silva"
+git push
+
+
