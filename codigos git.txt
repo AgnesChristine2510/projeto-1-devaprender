@@ -15,5 +15,5 @@ git add .
 git commi t -m "commit inicial"
 git config --global user.name "genivalda da silva"
 git push
-
+git reflog (historico de versões criadas)
 
